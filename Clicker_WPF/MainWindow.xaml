@@ -9,7 +9,7 @@
     <Grid>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
             <TextBlock Text="Счётчик: 0"
-                   FontSize="24"
+                   FontSize="25"
                    HorizontalAlignment="Center"
                    VerticalAlignment="Top"
                    Margin="0, 20, 0, 0"/>
