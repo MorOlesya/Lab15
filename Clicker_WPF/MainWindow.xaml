@@ -8,7 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-            <TextBlock Text="Счётчик: 0"
+            <TextBlock 
+                   x:Name="CounterText"
+                   Text="Счётчик: 0"
                    FontSize="25"
                    HorizontalAlignment="Center"
                    VerticalAlignment="Top"
