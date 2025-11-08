@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker_WPF", "Clicker_WPF\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameWPF", "GameWPF\GameWPF.csproj", "{948C39C1-0D37-4A5E-B49B-5804BD9498F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_FocusTimer", "HomeWork_Focus Timer\HomeWork_FocusTimer.csproj", "{61974F39-E5DE-4B36-AF5D-5296CA934F80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{948C39C1-0D37-4A5E-B49B-5804BD9498F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{948C39C1-0D37-4A5E-B49B-5804BD9498F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{948C39C1-0D37-4A5E-B49B-5804BD9498F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61974F39-E5DE-4B36-AF5D-5296CA934F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61974F39-E5DE-4B36-AF5D-5296CA934F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61974F39-E5DE-4B36-AF5D-5296CA934F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61974F39-E5DE-4B36-AF5D-5296CA934F80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
