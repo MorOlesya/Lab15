@@ -8,11 +8,21 @@ namespace Clicker_WPF
         public MainWindow()
         {
             InitializeComponent();
+            UpdateCounterText();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             _counter++;
+            UpdateCounterText();
+        }
+        private void Button_Reset(object sender, RoutedEventArgs e)
+        {
+            _counter++;
+            UpdateCounterText();
+        }
+        private void UpdateCounterText()
+        {
             CounterText.Text = $"Счётчик: {_counter}";
         }
     }
